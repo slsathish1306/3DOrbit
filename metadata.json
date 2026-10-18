@@ -1,0 +1,6 @@
+{
+  "name": "Kepleria 3D Orbital Gravity Simulator",
+  "description": "Interactive 3D N-body orbital mechanics and gravity simulator built with Three.js. Click and drag to launch planets with custom masses and velocities, preview real-time trajectories, and warp spacetime gravity and time speed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
